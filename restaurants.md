@@ -45,15 +45,6 @@ Fantastic local beer with a nice pizza selection.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384.59802300561796!2d146.68612649365224!3d-36.36065960093324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc309e74961df8f8!2sBridge%20Road%20Brewers!5e0!3m2!1sen!2sau!4v1645937691513!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-### The Stanley Pub
-
-A nice restaurant only 10 minutes away by car. Reservations recommended by emailing <a href="mailto:thestanleypub@gmail.com">
-thestanleypub@gmail.com</a>
-
-The staff in this place is limited, so please be patient and enjoy a few drinks while your food arrives.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50935.3926883666!2d146.71968962022305!3d-36.40521631351038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b26afcd1c7a7d8b%3A0xfba973417896b63e!2sThe%20Stanley%20Pub%20(Victoria)!5e0!3m2!1sen!2sau!4v1645937945359!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 ## Finer Dining
 
 ### The Ox and the Hound
